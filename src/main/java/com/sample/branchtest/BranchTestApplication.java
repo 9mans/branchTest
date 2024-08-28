@@ -10,4 +10,7 @@ public class BranchTestApplication {
         SpringApplication.run(BranchTestApplication.class, args);
     }
 
+    public void test() {
+        System.out.println("test");
+    }
 }
